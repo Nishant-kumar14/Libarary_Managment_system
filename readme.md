@@ -61,13 +61,13 @@ After viewing the book details, you can continue to view more books or exit the 
 - Ensure you input valid numbers when prompted. If you input an invalid number, you’ll be asked to try again.
 - Make sure your Python environment is working correctly to run the script.
 
-Screenshots
-Screenshot 1: Image showing the initial book selection menu
-![Screenshot 2024-12-16 093829](https://github.com/user-attachments/assets/b367806d-727b-43e8-9ddb-70977b69be54)
+##Screenshots
+###Screenshot 1: Image showing the initial book selection menu
+![Screenshot 2024-12-16 093558](https://github.com/user-attachments/assets/812b293f-3bcb-42e6-9e1f-cec4e24cc0a6)
 
+###Screenshot 2: Image displaying book details after selecting a book
+![Screenshot 2024-12-16 093829](https://github.com/user-attachments/assets/a37c7b05-52b7-4b42-b05d-7135f5c05cc1)
 
+###Screenshot 1: Image displaying after you exit
+![Screenshot 2024-12-16 093927](https://github.com/user-attachments/assets/bc54ed93-35f3-4398-b04b-74850f93b3e2)
 
-Screenshot 2: Image displaying book details after selecting a book
-![Screenshot 2024-12-16 093927](https://github.com/user-attachments/assets/35c44faa-db95-4672-b805-0aa459978bb4)
-
-[Insert Screenshot 3: Image showing the option to continue or exit after viewing a book]
